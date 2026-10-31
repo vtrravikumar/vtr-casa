@@ -12,7 +12,7 @@ VTR-CASA is an experimental AI-powered personal call assistant. Its long-term go
 - [AI provider evaluation](docs/ai-provider-evaluation.md)
 - [Privacy, consent and recording](docs/data-privacy-and-recording.md)
 - [Roadmap](docs/future-roadmap.md)
-- [Architecture decisions](docs/decisions/)
+- [Architecture decisions](docs/decisions/ADR-001-voice-agent-architecture.md) and [Cloudflare backend ADR](docs/decisions/ADR-002-cloudflare-backend.md)
 
 ## Current direction
 
